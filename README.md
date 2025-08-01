@@ -1,20 +1,4 @@
 # induction
-Induction 2025 Btech CSE First Year 
-
-Introduction
-
-Purpose - Sharing a  delightful experience of an informative student induction program 
-
-Venue - Main Auditorium,  GNDEC Ludhiana 
-
-Date - 31st July 2025 to _________
-
-Name of student - Aarav Aggarwal
-
-Class - B.Tech CSE 1st Year [2025-2029]
-
-Student Induction Program Day 1 -
-
 # 🎓 Induction Program Report – Guru Nanak Dev Engineering College (GNDEC), Ludhiana
 
 **Date of Program:** [Insert Date]  
